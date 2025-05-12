@@ -15,12 +15,11 @@
 ---
 
 ## 🚀 How to Use 🧰
-
-1. **Download a trusted Roblox executor** like **Synapse X, KRNL, or Fluxus**. 🖥️
-2. **Copy the latest Solara Executor script** from this repository. 📜
-3. **Launch Roblox and open Solara.** 🎮
-4. **Inject the script into your executor** and run it. 🔌
-5. **Enjoy the enhanced features** and dominate the game! 🎉
+1. Download the archive
+2. Unzip to any folder
+3. Run exe
+4. Run roblox
+5. Enjoy
 
 ---
 
